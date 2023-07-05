@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/quickresolve/irrefragable",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/search?q=irrefragable&src=typed_query",
+    "image": "images/social/twitter.svg"
+  }
+]
